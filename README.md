@@ -131,7 +131,7 @@ $${\color{orange}Vous \space me \space contacter \space  via \space }$$
 
 [![](https://img.shields.io/badge/github-blueviolet?style=for-the-badge)](https://github.com/youssefhammani)
 [![](https://img.shields.io/badge/Email-Me%20Now-red?style=for-the-badge)](mailto:youssefhammani04@gmail.com)
-[![](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=for-the-badge)](https://www.linkedin.com/in/youssef-hammani/)
+[![](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=for-the-badge)](https://www.linkedin.com/in/youssef-hammani-046467256/)
 
 
 
